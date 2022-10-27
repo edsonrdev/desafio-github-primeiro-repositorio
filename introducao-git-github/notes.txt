@@ -1,0 +1,8 @@
+- Link para downloado do Git: https://git-scm.com/
+- Link da plataforma do GitHub: https://github.com/
+
+O Git é o Sistema de Versionamento de Código mais popular do mundo!
+
+O GitHub é uma das várias plataformas online usadas para hospedagem de projetos criados com o Git (chamados repositórios remotos).
+
+O Git Bash é o terminal padrão (extendido) para digitação de comandos do Git.
